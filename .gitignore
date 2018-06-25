@@ -1,0 +1,5 @@
+RestClient/.vs/
+RestClient/bin/
+RestClient/obj/
+*.nupkg
+RestClient/packages/
